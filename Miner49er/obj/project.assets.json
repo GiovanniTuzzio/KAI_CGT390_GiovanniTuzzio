@@ -49,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\KAI-master\\Miner49er\\Miner49er.csproj",
+      "projectUniqueName": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\Miner49erGiovanniTuzzio\\KAI_CGT390_GiovanniTuzzio\\Miner49er\\Miner49er.csproj",
       "projectName": "Miner49er",
-      "projectPath": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\KAI-master\\Miner49er\\Miner49er.csproj",
+      "projectPath": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\Miner49erGiovanniTuzzio\\KAI_CGT390_GiovanniTuzzio\\Miner49er\\Miner49er.csproj",
       "packagesPath": "C:\\Users\\giotu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\KAI-master\\Miner49er\\obj\\",
+      "outputPath": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\Miner49erGiovanniTuzzio\\KAI_CGT390_GiovanniTuzzio\\Miner49er\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,11 +76,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\KAI-master\\FSA\\FSA.csproj": {
-              "projectPath": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\KAI-master\\FSA\\FSA.csproj"
+            "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\Miner49erGiovanniTuzzio\\KAI_CGT390_GiovanniTuzzio\\FSA\\FSA.csproj": {
+              "projectPath": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\Miner49erGiovanniTuzzio\\KAI_CGT390_GiovanniTuzzio\\FSA\\FSA.csproj"
             },
-            "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\KAI-master\\KAI\\KAI.csproj": {
-              "projectPath": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\KAI-master\\KAI\\KAI.csproj"
+            "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\Miner49erGiovanniTuzzio\\KAI_CGT390_GiovanniTuzzio\\KAI\\KAI.csproj": {
+              "projectPath": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\Miner49erGiovanniTuzzio\\KAI_CGT390_GiovanniTuzzio\\KAI\\KAI.csproj"
             }
           }
         }

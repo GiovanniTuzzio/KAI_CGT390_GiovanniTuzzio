@@ -9,3 +9,15 @@ C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\KAI\obj\Debug\net9.0\KAI.dll
 C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\KAI\obj\Debug\net9.0\refint\KAI.dll
 C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\KAI\obj\Debug\net9.0\KAI.pdb
 C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\KAI\obj\Debug\net9.0\ref\KAI.dll
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\KAI\bin\Debug\net9.0\KAI.deps.json
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\KAI\bin\Debug\net9.0\KAI.dll
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\KAI\bin\Debug\net9.0\KAI.pdb
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\KAI\obj\Debug\net9.0\KAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\KAI\obj\Debug\net9.0\KAI.AssemblyInfoInputs.cache
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\KAI\obj\Debug\net9.0\KAI.AssemblyInfo.cs
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\KAI\obj\Debug\net9.0\KAI.csproj.CoreCompileInputs.cache
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\KAI\obj\Debug\net9.0\KAI.sourcelink.json
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\KAI\obj\Debug\net9.0\KAI.dll
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\KAI\obj\Debug\net9.0\refint\KAI.dll
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\KAI\obj\Debug\net9.0\KAI.pdb
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\KAI\obj\Debug\net9.0\ref\KAI.dll

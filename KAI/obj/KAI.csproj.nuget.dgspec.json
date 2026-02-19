@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\KAI-master\\KAI\\KAI.csproj": {}
+    "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\Miner49erGiovanniTuzzio\\KAI_CGT390_GiovanniTuzzio\\KAI\\KAI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\KAI-master\\KAI\\KAI.csproj": {
+    "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\Miner49erGiovanniTuzzio\\KAI_CGT390_GiovanniTuzzio\\KAI\\KAI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\KAI-master\\KAI\\KAI.csproj",
+        "projectUniqueName": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\Miner49erGiovanniTuzzio\\KAI_CGT390_GiovanniTuzzio\\KAI\\KAI.csproj",
         "projectName": "KAI",
-        "projectPath": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\KAI-master\\KAI\\KAI.csproj",
+        "projectPath": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\Miner49erGiovanniTuzzio\\KAI_CGT390_GiovanniTuzzio\\KAI\\KAI.csproj",
         "packagesPath": "C:\\Users\\giotu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\KAI-master\\KAI\\obj\\",
+        "outputPath": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\Miner49erGiovanniTuzzio\\KAI_CGT390_GiovanniTuzzio\\KAI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

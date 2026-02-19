@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\KAI-master\\FSA\\FSA.csproj": {}
+    "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\Miner49erGiovanniTuzzio\\KAI_CGT390_GiovanniTuzzio\\FSA\\FSA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\KAI-master\\FSA\\FSA.csproj": {
+    "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\Miner49erGiovanniTuzzio\\KAI_CGT390_GiovanniTuzzio\\FSA\\FSA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\KAI-master\\FSA\\FSA.csproj",
+        "projectUniqueName": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\Miner49erGiovanniTuzzio\\KAI_CGT390_GiovanniTuzzio\\FSA\\FSA.csproj",
         "projectName": "FSA",
-        "projectPath": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\KAI-master\\FSA\\FSA.csproj",
+        "projectPath": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\Miner49erGiovanniTuzzio\\KAI_CGT390_GiovanniTuzzio\\FSA\\FSA.csproj",
         "packagesPath": "C:\\Users\\giotu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\KAI-master\\FSA\\obj\\",
+        "outputPath": "C:\\Users\\giotu\\Dropbox\\PC\\Downloads\\Miner49erGiovanniTuzzio\\KAI_CGT390_GiovanniTuzzio\\FSA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

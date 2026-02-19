@@ -3,10 +3,6 @@ C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\Miner49er\bin\Debug\net9.0\Debug\
 C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\Miner49er\bin\Debug\net9.0\Debug\net9.0\Miner49er.runtimeconfig.json
 C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\Miner49er\bin\Debug\net9.0\Debug\net9.0\Miner49er.dll
 C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\Miner49er\bin\Debug\net9.0\Debug\net9.0\Miner49er.pdb
-C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\Miner49er\bin\Debug\net9.0\Debug\net9.0\FSA.dll
-C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\Miner49er\bin\Debug\net9.0\Debug\net9.0\KAI.dll
-C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\Miner49er\bin\Debug\net9.0\Debug\net9.0\FSA.pdb
-C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\Miner49er\bin\Debug\net9.0\Debug\net9.0\KAI.pdb
 C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\Miner49er\obj\Debug\net9.0\Miner49er.csproj.AssemblyReference.cache
 C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\Miner49er\obj\Debug\net9.0\Miner49er.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\Miner49er\obj\Debug\net9.0\Miner49er.AssemblyInfoInputs.cache
@@ -18,3 +14,15 @@ C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\Miner49er\obj\Debug\net9.0\refint
 C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\Miner49er\obj\Debug\net9.0\Miner49er.pdb
 C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\Miner49er\obj\Debug\net9.0\Miner49er.genruntimeconfig.cache
 C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\Miner49er\obj\Debug\net9.0\ref\Miner49er.dll
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\Miner49er\obj\Debug\net9.0\Miner49er.csproj.AssemblyReference.cache
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\Miner49er\obj\Debug\net9.0\Miner49er.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\Miner49er\obj\Debug\net9.0\Miner49er.AssemblyInfoInputs.cache
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\Miner49er\obj\Debug\net9.0\Miner49er.AssemblyInfo.cs
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\Miner49er\obj\Debug\net9.0\Miner49er.csproj.CoreCompileInputs.cache
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\Miner49er\obj\Debug\net9.0\Miner49er.sourcelink.json
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\Miner49er\obj\Debug\net9.0\Miner49er.csproj.Up2Date
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\Miner49er\obj\Debug\net9.0\Miner49er.dll
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\Miner49er\obj\Debug\net9.0\refint\Miner49er.dll
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\Miner49er\obj\Debug\net9.0\Miner49er.pdb
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\Miner49er\obj\Debug\net9.0\Miner49er.genruntimeconfig.cache
+C:\Users\giotu\Dropbox\PC\Downloads\Miner49erGiovanniTuzzio\KAI_CGT390_GiovanniTuzzio\Miner49er\obj\Debug\net9.0\ref\Miner49er.dll
