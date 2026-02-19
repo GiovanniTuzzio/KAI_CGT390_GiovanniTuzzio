@@ -1,0 +1,11 @@
+C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\FSA\bin\Debug\net9.0\FSA.deps.json
+C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\FSA\bin\Debug\net9.0\FSA.dll
+C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\FSA\bin\Debug\net9.0\FSA.pdb
+C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\FSA\obj\Debug\net9.0\FSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\FSA\obj\Debug\net9.0\FSA.AssemblyInfoInputs.cache
+C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\FSA\obj\Debug\net9.0\FSA.AssemblyInfo.cs
+C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\FSA\obj\Debug\net9.0\FSA.csproj.CoreCompileInputs.cache
+C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\FSA\obj\Debug\net9.0\FSA.dll
+C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\FSA\obj\Debug\net9.0\refint\FSA.dll
+C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\FSA\obj\Debug\net9.0\FSA.pdb
+C:\Users\giotu\Dropbox\PC\Downloads\KAI-master\FSA\obj\Debug\net9.0\ref\FSA.dll
